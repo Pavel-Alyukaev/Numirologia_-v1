@@ -1,0 +1,10 @@
+C:\Users\Павел\source\repos\Numirologia\Numirologia\bin\Debug\Numirologia.exe.config
+C:\Users\Павел\source\repos\Numirologia\Numirologia\bin\Debug\Numirologia.exe
+C:\Users\Павел\source\repos\Numirologia\Numirologia\bin\Debug\Numirologia.pdb
+C:\Users\Павел\source\repos\Numirologia\Numirologia\obj\Debug\Numirologia.csprojAssemblyReference.cache
+C:\Users\Павел\source\repos\Numirologia\Numirologia\obj\Debug\Numirologia.Form1.resources
+C:\Users\Павел\source\repos\Numirologia\Numirologia\obj\Debug\Numirologia.Properties.Resources.resources
+C:\Users\Павел\source\repos\Numirologia\Numirologia\obj\Debug\Numirologia.csproj.GenerateResource.cache
+C:\Users\Павел\source\repos\Numirologia\Numirologia\obj\Debug\Numirologia.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\Numirologia\Numirologia\obj\Debug\Numirologia.exe
+C:\Users\Павел\source\repos\Numirologia\Numirologia\obj\Debug\Numirologia.pdb
